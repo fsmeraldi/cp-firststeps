@@ -24,4 +24,4 @@ version or launch as an interactive binder: [![Binder](https://mybinder.org/badg
 For your convenience, all the videos embedded in these notebooks are also available as a YouTube [playlist](https://youtube.com/playlist?list=PLvkILgfJvxBQt9t7J7zw03b0S2R_lpZpD&si=M5GTCUwV-Xx9K1XQ).
 
 
-(C)2014,2022 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
+(C)2014,2023 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
